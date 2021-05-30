@@ -1,0 +1,3 @@
+/home/nmdas/HoangShare/Dataset/L_7_DB4229_Disorder_feat_119_w_1.csv
+Disprot228
+/home/nmdas/HoangShare/Dataset/L_8_Disprot228_Disorder_feat_119_w_1.csv
