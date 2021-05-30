@@ -175,10 +175,10 @@ def Predict_Result(y, predicted,predicted_proba,DatatsetName=""):
 	#Improvement in test set
 	#
 	if (DatatsetName=="Disprot228"):
-			SROC_auc=0.81
-			SPR_auc= 0.722 
-			SMCC=0.5 		
-			SSw=0.452 	
+			SROC_auc= 81.00
+			SPR_auc= 72.20 
+			SMCC= 50.00 		
+			SSw= 45.20 	
 
 			print("\n\n", DatatsetName)
 			print("Imp(%) ROCAUC ,",     ((ROC_auc_score-SROC_auc)/SROC_auc)*100       ,file=Compare_file)
